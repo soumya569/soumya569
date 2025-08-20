@@ -4,13 +4,8 @@
 Email Me 👉 ✉️ **soumyaranjanroul38@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I'm a Computer Science Student .
-- 🌱 **I’m currently learning and exploring :** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-**I’m continuously learning and working on exciting projects in AI and ML.
+-**Skilled in Python,Java 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soumyaranjanroul2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Soumya Ranjan Roul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumyaranjanroul38@gmail.com) 
